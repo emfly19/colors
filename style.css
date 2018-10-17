@@ -1,0 +1,186 @@
+body {
+    text-align:center;
+    letter-spacing:5px;
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+    color:white;
+}
+
+header{
+    background-color:#919191;
+    padding:40px 0;
+    width:100%;
+}
+
+h2 {
+    font-size:35px;
+}
+
+p {
+    font-size:20px;
+}
+
+.salamander p{
+    font-size:16px;
+}
+
+.rainbow {
+    display:inline-block;
+    margin: 60px auto;
+
+}
+
+.salamander {
+    display:inline-block;
+    margin: 60px auto; 
+}
+
+#grey {
+    padding:20px 0 0 0;
+    height:200px;
+    width:200px;
+    margin:10px;
+    background:#939DA8;
+    margin-bottom:20px;
+    float:right;
+}
+
+#blue {
+    padding:20px 0 0 0;
+    height:200px;
+    width:200px;
+    margin:10px;
+    background:#259AC4;
+    margin-bottom:20px;
+    float:right;
+}
+
+#indigo {
+    padding:20px 0 0 0;
+    height:200px;
+    width:200px;
+    margin:10px;
+    background:#244260;
+    margin-bottom:20px;
+    float:right;
+}
+
+#purple {
+    padding:20px 0 0 0;
+    height:200px;
+    width:200px;
+    margin:10px;
+    background:#8058A5;
+    margin-bottom:20px;
+    float:right;
+}
+
+#green {
+    padding:20px 0 0 0;
+    height:200px;
+    width:200px;
+    margin:10px;
+    background:#59B27D;
+    margin-bottom:20px;
+    float:right;
+}
+
+#red {
+    padding:20px 0 0 0;
+    height:200px;
+    width:200px;
+    margin:10px;
+    background:#EC2C4C;
+    margin-bottom:20px;
+    float:right;
+}
+
+#orange{
+    float:right;
+    padding:20px 0 0 0;
+    height:200px;
+    width:200px;
+    margin:10px;
+    background:#EB6A39;
+    margin-bottom:20px;
+}
+
+#yellow{
+    padding:20px 0 0 0;
+    height:200px;
+    width:200px;
+    margin:10px;
+    background:#EBCD39;
+    margin-bottom:20px;
+    float:right;
+}
+
+/* SALAMANDER CLASS */
+
+#orange-1 {
+    padding:20px 0 0 0;
+    height:200px;
+    width:250px;
+    margin:10px;
+    background:#fd6051;
+    margin-bottom:20px;
+    float:right;
+}
+#orange-2 {
+    padding:20px 0 0 0;
+    height:200px;
+    width:250px;
+    margin:10px;
+    background:#FF8866;
+    margin-bottom:20px;
+    float:right;
+}
+
+#light-yellow {
+    padding:20px 0 0 0;
+    height:200px;
+    width:250px;
+    margin:10px;
+    background:#FFE577;
+    margin-bottom:20px;
+    float:right;
+}
+
+#yellow-salamander {
+    padding:20px 0 0 0;
+    height:200px;
+    width:250px;
+    margin:10px;
+    background:#FEC051;
+    margin-bottom:20px;
+    float:right;
+}
+#dark-purple {
+    padding:20px 0 0 0;
+    height:200px;
+    width:250px;
+    margin:10px;
+    background:#391F33;
+    margin-bottom:20px;
+    float:right;
+}
+#grey-salamander {
+    padding:20px 0 0 0;
+    height:200px;
+    width:250px;
+    margin:10px;
+    background:#9394A7;
+    margin-bottom:20px;
+    float:right;
+}
+
+#light-grey {
+    padding:20px 0 0 0;
+    height:200px;
+    width:250px;
+    margin:10px;
+    background:#f9f9f9;
+    margin-bottom:20px;
+    float:right;
+    color:black;
+}
