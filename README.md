@@ -1,2 +1,2 @@
 # colors
-simple page showing colour hex codes and rgb values.
+This is just a simple page showing some hex codes and rgb values.
